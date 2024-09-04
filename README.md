@@ -13,8 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 <img src = "src/screenshots/Screenshot84.png" height="400">
 <img src = "src/screenshots/Screenshot85.png" height="400">
+<img src = "src/screenshots/Screenshot86.png" height="400">
 <img src = "src/screenshots/Screenshot87.png" height="400">
-<img src = "src/screenshots/Screenshot88.png" height="400">
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
